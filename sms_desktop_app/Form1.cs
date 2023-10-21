@@ -139,6 +139,31 @@ namespace sms_desktop_app
                 getId(id);
                 btn_save.Text = "Edit";
             }
+            else if (e.ColumnIndex == dataGridView1.Columns["delete"].Index && e.RowIndex >= 0)
+            {
+                Mode = false;
+                id = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+                sql = "DELETE * FROM student WHERE id = @id";
+                conn.Open();
+                cmd = new SqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@id", id);
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Student data Deleted Successfully");
+                conn.Close();
+            }
+        }
+
+        private void btn_clear_Click(object sender, EventArgs e)
+        {
+            // Clear text boxes
+            txt1.Clear();
+            txt2.Clear();
+            txt3.Clear();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            load();
         }
     }
 }
