@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\bin\Debug\sms_desktop_app.exe.config
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\bin\Debug\sms_desktop_app.exe
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\bin\Debug\sms_desktop_app.pdb
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\obj\Debug\sms_desktop_app.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\obj\Debug\sms_desktop_app.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\obj\Debug\sms_desktop_app.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\obj\Debug\sms_desktop_app.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\obj\Debug\sms_desktop_app.exe
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\obj\Debug\sms_desktop_app.pdb
+C:\Users\ADMIN\Desktop\C#_work\Projects\sms_desktop_app_01\sms_desktop_app\sms_desktop_app\obj\Debug\sms_desktop_app.Form1.resources
