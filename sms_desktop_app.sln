@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sms_desktop_app", "sms_desktop_app\sms_desktop_app.csproj", "{3130A08B-E753-46E6-8A59-1C8E71D8FDEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3130A08B-E753-46E6-8A59-1C8E71D8FDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3130A08B-E753-46E6-8A59-1C8E71D8FDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3130A08B-E753-46E6-8A59-1C8E71D8FDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3130A08B-E753-46E6-8A59-1C8E71D8FDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07640636-B50F-4AB0-814A-1EFB50594322}
+	EndGlobalSection
+EndGlobal
